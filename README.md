@@ -32,5 +32,8 @@ dotnet add BradsStoreSln/OutdoorProducts.Tests reference BradsStoreSln/OutdoorPr
 ![Cart](https://github.com/miseryprevails/BradsStoreSln/blob/main/Lab2-AScreenshot2.PNG)
 ![Cart2](https://github.com/miseryprevails/BradsStoreSln/blob/main/Lab2-AScreenshot3.PNG)
 
+## Step 5 Cart Checkout Applied
+[Checkout](https://github.com/miseryprevails/BradsStoreSln/blob/main/CompletingtheCart.PNG)
+
 ### Passed All Tests
 ![Test](https://github.com/miseryprevails/BradsStoreSln/blob/main/Lab2-A%20Passed%20Test.PNG)
