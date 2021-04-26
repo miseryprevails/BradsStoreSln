@@ -17,20 +17,20 @@ dotnet add BradsStoreSln/OutdoorProducts.Tests reference BradsStoreSln/OutdoorPr
 ### Chapter 7 Screenshots
 
 ### Step 1 Checking and Running Application
-![Welcome Pic](https://github.com/miseryprevails/BradsStoreSln/blob/master/WelcomeToTheStore.PNG)
+![Welcome Pic](https://github.com/miseryprevails/BradsStoreSln/blob/main/WelcomeToTheStore.PNG)
 
 
 ### Step 2 Bootstrap Applied
-![Bootstrap Pic](https://github.com/miseryprevails/BradsStoreSln/blob/master/OutdoorProducts/Bootstrap.PNG)
+![Bootstrap Pic](https://github.com/miseryprevails/BradsStoreSln/blob/main/Bootstrap.PNG)
 
 ## Chapter 8 Screenshots
 
 ### Step 3 Add,Filter,Category
-![Step3Pic](https://github.com/miseryprevails/BradsStoreSln/blob/master/Lab2-A%20Screenshot1.PNG)
+![Step3Pic](https://github.com/miseryprevails/BradsStoreSln/blob/main/Lab2-A%20Screenshot1.PNG)
 
 ### Step 4 Add To Cart Applied
-![Cart](https://github.com/miseryprevails/BradsStoreSln/blob/master/Lab2-AScreenshot2.PNG)
-![Cart2](https://github.com/miseryprevails/BradsStoreSln/blob/master/Lab2-AScreenshot3.PNG)
+![Cart](https://github.com/miseryprevails/BradsStoreSln/blob/main/Lab2-AScreenshot2.PNG)
+![Cart2](https://github.com/miseryprevails/BradsStoreSln/blob/main/Lab2-AScreenshot3.PNG)
 
 ### Passed All Tests
-![Test](https://github.com/miseryprevails/BradsStoreSln/blob/master/Lab2-A%20Passed%20Test.PNG)
+![Test](https://github.com/miseryprevails/BradsStoreSln/blob/main/Lab2-A%20Passed%20Test.PNG)
